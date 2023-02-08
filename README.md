@@ -1,5 +1,5 @@
 # Welcome To the Thoughts App
-This app is a simple twitter style clone that allows you to share any thoughts you might have up to 300 charcters
+This app is a simple twitter style clone that allows you to share any thoughts you might have
 <img width="631" alt="image" src="https://user-images.githubusercontent.com/47930630/217634465-5cd9bf4f-8f0f-4c01-9828-7cc1398620f3.png">
 ## Dashboard
 Users have a dashboard of all previous posts and have the ability to edit or remove the posts if they so choose to
